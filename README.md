@@ -127,9 +127,9 @@ Because every random graph has exactly the same in- and out-degree sequence as G
 
 > **Edit this section so it matches exactly what each member actually committed.**
 
-25I-0775  `src/params.py`, `src/data_loader.py` (T1, T2), `main.py` pipeline, README,video editing |
-25I-0740  `src/triads.py` (T3 canonical code + hand example, T4 census), `tests/test_triads.py` |
-25I-0848  `src/randomize.py` (T5 + degree assert), `src/zscore.py` (T6), `src/plot.py` (T7), T8 analysis |
+25I-0775   He has made main.py data folder and test folder and results folder and all the files in that folder.
+25I-0740    Has has executed all the project and did all hand written work and also edited the full video and youtube link.
+25I-0848   He has made all the src folder and made all python files in it.
 
 # Reference
 
